@@ -1,4 +1,4 @@
-# 🚀 QA Portfolio — Practical Software Testing Projects
+# 🚀 QA Portfolio
 
 Welcome to my **Portfolio**, a collection of hands-on testing projects demonstrating my technical skills, analytical thinking, and structured approach to software quality.
 
